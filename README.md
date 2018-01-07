@@ -20,5 +20,6 @@ Everytime after you start a chat client, you will see a window poped out, where 
 
 ### Notes:
 
-  * Code adapted from code in "Head First Java, 2nd Edition", Kathy Sierra and Bert Bates, page 518-521
-  * Demo video at: https://drive.google.com/file/d/15lDlWntdv977tOddI_0dE60u0rr8o3ek/view?usp=sharing
+  * Demo video for this program at: https://drive.google.com/file/d/15lDlWntdv977tOddI_0dE60u0rr8o3ek/view?usp=sharing
+  * Codes adapted from codes in "Head First Java, 2nd Edition", Kathy Sierra and Bert Bates, page 518-521
+  
