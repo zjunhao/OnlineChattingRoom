@@ -114,7 +114,7 @@ public class ChatClient {
 					System.out.println("read > " + message);
 					
 					//parse text received from server
-				    String pattern = "\n*author:(.*) time:(.+)T(.+)\\.\\d\\d\\d msgbody:(.*)";   // "\n*" at beginning used for debugging, sometimes server returns "\nauthor:blahblahblah..."
+				    String pattern = "\n*author:(.*) time:(.+)T(.+)\\.\\d+ msgbody:(.*)";   // "\n*" at beginning used for debugging, sometimes server returns "\nauthor:blahblahblah..."
 				    Pattern r = Pattern.compile(pattern);
 				    Matcher m = r.matcher(message);		
 				    
